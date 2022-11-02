@@ -1,0 +1,9 @@
+{
+    "code": "200",
+    "data": {
+        "msg": "登陆成功",
+        "success": "true",
+        "token": "admin_token",
+        "username": "admin"
+    }
+}
