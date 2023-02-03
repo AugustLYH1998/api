@@ -1,14 +1,26 @@
 {
-    "test": [
-        {
-            "id": 1,
-            "code": "200",
-            "data": {
-                "msg": "登陆成功",
-                "success": "true",
-                "token": "admin_token",
-                "username": "admin"
-            }
-        }
-    ]
+  "test": [
+    {
+      "id": 1,
+      "code": "200",
+      "data": {
+        "msg": "登陆成功",
+        "success": "true",
+        "token": "admin_token",
+        "username": "admin"
+      }
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "2",
+      "username": "",
+      "password": ""
+    }
+  ]
 }
