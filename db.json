@@ -21,6 +21,40 @@
       "username": "admin",
       "password": "1231241412",
       "id": "WvOACB_"
+    },
+    {
+      "username": "test",
+      "password": "123456",
+      "id": "dzkf1_s"
+    },
+    {
+      "username": "admin",
+      "password": "123123",
+      "id": "NbXqFfz"
+    }
+  ],
+  "student": [
+    {
+      "name": "红红",
+      "gender": "1",
+      "age": 22,
+      "number": 1,
+      "class": "1",
+      "status": "1",
+      "address": "四川省",
+      "phone": 18112232342,
+      "id": 1
+    },
+    {
+      "name": "小明",
+      "gender": "1",
+      "age": 21,
+      "number": 2,
+      "class": "1",
+      "status": "1",
+      "address": "成都市",
+      "phone": 12232457756,
+      "id": 2
     }
   ]
 }
